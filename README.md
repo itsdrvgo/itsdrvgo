@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a startup, UploadEase<br>👯 I’m looking to collaborate on any Full Stack Web Project w/ React/Next.JS<br>🌱 I’m currently learning Rust<br>💬 Ask me about Next.JS, TypeScript, tRPC, Drizzle ORM<br>⚡ Fun fact, I struggle typing in Laptops, because I'm too much used to normal keyboards
+🔭 I’m currently looking for work at a startup<br>👯 I’m looking to collaborate on any Full Stack Web Project w/ React/Next.JS<br>🌱 I’m currently learning Rust<br>💬 Ask me about Next.JS, TypeScript, tRPC, Drizzle ORM<br>⚡ Fun fact, I struggle typing in Laptops, because I'm too much used to normal keyboards
 
 
 ## 🌐 Socials:
